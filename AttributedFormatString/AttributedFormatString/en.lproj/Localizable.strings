@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  AttributedFormatString
+
+  Created by virusbee on 2021/6/3.
+  
+*/
+
+"self_introduction" = "My name is {0} {1}.";
+"first_name" = "Jack";
+"last_name" = "Chen";

@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  AttributedFormatString
+
+  Created by virusbee on 2021/6/3.
+  
+*/
+
+"self_introduction" = "我的名字叫{1}{0}。";
+"first_name" = "龙";
+"last_name" = "成";
